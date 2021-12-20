@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## Daftar Siswa Berbasis Laravel (CRUD)
+
+<p align = "center">
+<img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss.png" alt="drawing" width="350"/><img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss2.png" alt="drawing" width="350"/>
+</p>
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
