@@ -11,7 +11,7 @@
 ## Daftar Siswa Berbasis Laravel (CRUD)
 
 <p align = "center">
-<img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss.png" alt="drawing" width="350"/><img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss2.png" alt="drawing" width="350"/>
+<img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss.png" alt="drawing" width="500"/><img src="https://github.com/rasyidmisbahuddin/Daftar-Siswa-Berbasis-Laravel/blob/main/crudss2.png" alt="drawing" width="500"/>
 </p>
 
 
